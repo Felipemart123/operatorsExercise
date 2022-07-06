@@ -1,0 +1,15 @@
+/Users/guillermomartinez/repos/operators/operators/bin/Debug/net6.0/operators
+/Users/guillermomartinez/repos/operators/operators/bin/Debug/net6.0/operators.deps.json
+/Users/guillermomartinez/repos/operators/operators/bin/Debug/net6.0/operators.runtimeconfig.json
+/Users/guillermomartinez/repos/operators/operators/bin/Debug/net6.0/operators.dll
+/Users/guillermomartinez/repos/operators/operators/bin/Debug/net6.0/operators.pdb
+/Users/guillermomartinez/repos/operators/operators/obj/Debug/net6.0/operators.csproj.AssemblyReference.cache
+/Users/guillermomartinez/repos/operators/operators/obj/Debug/net6.0/operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guillermomartinez/repos/operators/operators/obj/Debug/net6.0/operators.AssemblyInfoInputs.cache
+/Users/guillermomartinez/repos/operators/operators/obj/Debug/net6.0/operators.AssemblyInfo.cs
+/Users/guillermomartinez/repos/operators/operators/obj/Debug/net6.0/operators.csproj.CoreCompileInputs.cache
+/Users/guillermomartinez/repos/operators/operators/obj/Debug/net6.0/operators.dll
+/Users/guillermomartinez/repos/operators/operators/obj/Debug/net6.0/refint/operators.dll
+/Users/guillermomartinez/repos/operators/operators/obj/Debug/net6.0/operators.pdb
+/Users/guillermomartinez/repos/operators/operators/obj/Debug/net6.0/operators.genruntimeconfig.cache
+/Users/guillermomartinez/repos/operators/operators/obj/Debug/net6.0/ref/operators.dll
